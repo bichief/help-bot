@@ -1,2 +1,8 @@
 aiogram<3.0
-environs~=8.0.0
+environs==9.5.0
+pip==22.0.3
+setuptools==60.5.0
+SQLAlchemy==1.4.29
+asyncpg
+httpx
+aiofiles
